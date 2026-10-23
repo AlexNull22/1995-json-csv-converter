@@ -1,0 +1,15 @@
+{
+  "independent_demo": true,
+  "rows": 1000,
+  "columns": 9,
+  "cells_verified": 9000,
+  "desktop_button_passed": true,
+  "desktop_preview_rows": 15,
+  "source_unchanged": true,
+  "reject_overwrite_passed": true,
+  "exact_decimal_preserved": true,
+  "nested_values_preserved": true,
+  "csv_sha256": "ad41b913701219d541065ccba3242ea17432a2e08a42e11f1bfbf8d2a20cecb9",
+  "input_sha256": "183cc02dd75ddea14314c5ead0bf4353964d823b69a5ca02b522f006f61fa908",
+  "elapsed_seconds": 0.617
+}

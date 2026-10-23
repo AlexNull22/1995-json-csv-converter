@@ -1,0 +1,10 @@
+{
+  "browser_extension_used": true,
+  "visible_preview_rows": 30,
+  "first_record": "000001\t自造商品 0001\t12345678901234567890.123456789\ttrue\t正常\t{\"颜色\":\"蓝色\",\"包装数\":6}\t[\"自造\",\"组1\"]\t\t",
+  "special_character_record": "000020\t自造商品 0020\t10.2\tfalse\t含逗号,与\"引号\"\n第二行\t{\"颜色\":\"蓝色\",\"包装数\":6}\t[\"自造\",\"组0\"]\t\t",
+  "screenshots": [
+    "1995_转换验收截图.jpg",
+    "1995_特殊字符截图.jpg"
+  ]
+}

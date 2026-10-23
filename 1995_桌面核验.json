@@ -1,0 +1,13 @@
+{
+  "tests_total": 2,
+  "tests_passed": 2,
+  "tests_failed": 0,
+  "tests_skipped": 0,
+  "seconds": 0.473,
+  "real_tk_button_invoked": true,
+  "long_field_characters": 225000,
+  "long_field_complete_in_saved_csv": true,
+  "invalid_json_does_not_publish": true,
+  "source_unchanged": true,
+  "preview_cell_display_limit": 500
+}
